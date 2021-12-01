@@ -1,0 +1,1 @@
+print("sum of first 10 odd numbers")

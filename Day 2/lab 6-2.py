@@ -19,7 +19,7 @@ time_by_bus = university_distance_in_miles / bus_speed
 
 total_time_taken_by_bus = (time_by_bus*60) +stop_time
 
-print(f"Total tie required by bus to reach university is {total_time_taken_by_bus} minutes")
+print(f"Total time required by bus to reach university is {total_time_taken_by_bus} minutes")
 
 #Time taken by jogging to university
 

@@ -36,7 +36,7 @@ walking_speed_fourth_mile = 7
 time_taken_to_cover_fourth_mile = 1/ walking_speed_fourth_mile
 
 total_time_taken_by_walking = (time_taken_to_cover_first_mile + time_taken_to_cover_second_mile + time_taken_to_cover_third_mile + time_taken_to_cover_fourth_mile)*60
-print(f"Total time taken by walking is {total_time_taken_by_walking}")
+print(f"Total time taken by walking is {total_time_taken_by_walking} minutes.")
 
 
 if (total_time_taken_by_bus > total_time_taken_by_walking):

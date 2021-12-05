@@ -1,4 +1,4 @@
-for _ in range(3):
+for i in range(3):
     username = input("Enter username: ")
     password = input("Enter password: ")
 
